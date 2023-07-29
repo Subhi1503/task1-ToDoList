@@ -30,7 +30,7 @@
 h1 {
   color: whitesmoke;
   background: transparent;
-  background-color: #8566bb;
+  background-color: #d81f72;
   padding: 6px 0 2px 0;
   margin-bottom: 10px;
   box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.4);
@@ -54,7 +54,7 @@ input {
   font-size: 20px;
   font-weight: 500;
   width: 60%;
-  border-bottom: 2px solid #8566bb;
+  border-bottom: 2px solid #d81f72;
   outline: none;
 }
 
@@ -63,7 +63,7 @@ button {
   width: 40px;
   border-radius: 50%;
   border-color: transparent;
-  background-color: #8566bb;
+  background-color: #d81f72;
   color: whitesmoke;
   font-size: 40px;
   border: none;
@@ -88,7 +88,7 @@ ol li {
   min-height: 40px;
   display: flex;
   align-items: center;
-  color: #8566bb;
+  color: #1e1c1d;
   text-transform: capitalize;
 }
 
@@ -106,7 +106,7 @@ ol li {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #8566bb;
+  background-color: rgb(71, 177, 222);
   border-radius: 50%;
   margin: 0 15px 0 35px;
   color: whitesmoke;
@@ -115,7 +115,7 @@ ol li {
 }
 
 .todo__style .fa-times:hover {
-  background-color: red;
+  background-color: rgb(9, 86, 38);
 }
 /* .todo__style .fa-times:hover .list__style {
   color: red;
